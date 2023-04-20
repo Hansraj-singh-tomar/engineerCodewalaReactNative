@@ -6,6 +6,7 @@ import {
   Image,
   FlatList,
   ScrollView,
+  // SectionList,
   TouchableOpacity,
   Linking,
   Alert
@@ -20,6 +21,7 @@ import {
 const Resume = () => {
   return (
     <View style={{ flex: 1 }}>
+
       <ScrollView style={{ flex: 1 }}>
         <View style={{ flex: 1 }}>
           <View
